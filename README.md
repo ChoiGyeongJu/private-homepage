@@ -1,6 +1,6 @@
 # Personal Portfolio Home Page
 2022 Summer Vacation Private Homepage Project <br/>
-**site url : http://3.39.62.8** 
+**site url : The instance is currently down** 
 
 ## Home Page Configuration
 
