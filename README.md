@@ -1,10 +1,11 @@
 # Personal Portfolio Home Page
-2022 Summer Vacation Private Homepage Project
+2022 Summer Vacation Private Homepage Project <br/>
+**site url : http://3.39.62.8** 
 
 ## Home Page Configuration
 
 ### Home
-I showed my image using a react-slick & All categories appear as animations using react reval.
+I showed my image using a **react-slick** & All categories appear as animations using **react reval**.
 <img src="https://user-images.githubusercontent.com/97934158/185891231-7bec49e6-a132-4596-84a5-43f26e6f7783.png">
 
 ### About
@@ -23,10 +24,10 @@ My GitHub repository url (Additional repository url will be added later)
 
 ## Tech Stack
 
-[Languages] Java, JavaScript
+[Languages] Java, **JavaScript**
 
-[FE] React
+**[FE] React**
 
-[BE] Springboot, AWS EC2
+[BE] Springboot, **AWS EC2**
 
 [Database] Maria DB
