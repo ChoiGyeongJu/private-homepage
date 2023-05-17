@@ -1,7 +1,6 @@
 # Personal Portfolio Home Page
 **2022 Summer Vacation Private Homepage Project** <br/>
 **react code : /privateHomepage/src/main/reactfront/** <br/>
-**site url : http://43.200.205.184/** 
 
 <p align="center">
   <br>
